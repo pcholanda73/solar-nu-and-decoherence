@@ -1,1 +1,1 @@
-# solar-nu-and-deoherence
+# solar-nu-and-decoherence
