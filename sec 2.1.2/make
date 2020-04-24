@@ -1,0 +1,3 @@
+gfortran -o p.exe plowenergy.f subchi2lowenu.f -lkernlib -lmathlib -lpacklib
+#gfortran -o r.exe ratesssm-le.f sublowenu.f -lkernlib -lmathlib -lpacklib
+#gfortran -o s.exe sigma.f
